@@ -1,3 +1,2 @@
 Zero_day
 
-./yes
